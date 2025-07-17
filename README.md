@@ -16,4 +16,5 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Link Netlify --> [Blog Responsivo](rid-142513-desafio-2-dnc.netlify.app)
+Link Netlify --> rid-142513-desafio-2-dnc.netlify.app
+Nota: Copiar e Colar na barra de endereço do navegador.
