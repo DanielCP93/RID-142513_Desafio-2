@@ -17,4 +17,4 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 Link Netlify --> rid-142513-desafio-2-dnc.netlify.app
-Nota: Copiar e Colar na barra de endereço do navegador.
+- Nota: Copiar e Colar na barra de endereço do navegador.
